@@ -1,0 +1,12 @@
+.head{
+ color:chartreuse;
+}
+.head1{
+ color: green;
+}
+.head{
+ background-image:linear-gradient(to right,red,green);
+ padding: 5px;
+ margin-left: 30%;
+ margin-right: 30%;
+}
